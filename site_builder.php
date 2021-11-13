@@ -43,10 +43,10 @@ foreach($translations as $translation) {
 		mkdir('site/'.$translation);
 		chmod('site/'.$translation, 0777); 
 	}
-	file_put_contents('/var/www/html/tmp/asshole/site/'.$translation.'/index.html', $template);
-	chmod('/var/www/html/tmp/asshole/site/'.$translation.'/index.html', 0777); 
+	file_put_contents('site/'.$translation.'/index.html', $template);
+	chmod('site/'.$translation.'/index.html', 0777); 
 	if($translation == 'en') {
-		file_put_contents('/var/www/html/tmp/asshole/site/index.html', $template);
-		chmod('/var/www/html/tmp/asshole/site/index.html', 0777); 
+		file_put_contents('site/index.html', $template);
+		chmod('site/index.html', 0777); 
 	}
 }
