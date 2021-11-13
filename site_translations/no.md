@@ -12,4 +12,4 @@ Det kan være en god idé å reflektere over din nylig oppførsel.
 
 __
 
-Tekst for retningslinjer av [Johnathan Corgan](https://keybase.io/jcorgan). Design og kode av [Neatnik](https://neatnik.net/). Bidra på [GitHub](https://github.com/neatnik/asshole.fyi).
+Tekst for retningslinjer av [Johnathan Corgan](https://keybase.io/jcorgan). Oversatt av [Vukky](https://sus.omg.lol). Design og kode av [Neatnik](https://neatnik.net/). Bidra på [GitHub](https://github.com/neatnik/asshole.fyi).
