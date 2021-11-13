@@ -1,5 +1,7 @@
+* [Deutsch](/de/)
 * [English](/en/)
 * [Español](/es/)
 * [Français](/fr/)
 * [한국어](/ko/)
 * [Nederlands](/nl/)
+* [Norsk](/no/)
