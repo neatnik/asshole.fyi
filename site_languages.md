@@ -5,3 +5,4 @@
 * [한국어](/ko/)
 * [Nederlands](/nl/)
 * [Norsk](/no/)
+* [Suomi](/fi/)
