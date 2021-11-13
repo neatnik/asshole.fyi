@@ -1,0 +1,91 @@
+@import url('https://rsms.me/inter/inter.css');
+
+:root {
+	--primary: #333;
+	--secondary: #fff;
+	--tertiary: #aaa;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--secondary: #333;
+		--primary: #fff;
+	}
+}
+
+body {
+	font-family: 'Inter';
+	font-size: 1.5em;
+	color: var(--primary);
+	background: var(--secondary);
+	word-break: keep-all;
+}
+
+main {
+	max-width: 80vw;
+	padding: 0 2em;
+	margin: auto;
+}
+
+footer {
+	margin: 5em 0;
+	font-size: 70%;
+	color: var(--tertiary);
+}
+
+footer a:link,
+footer a:visited,
+footer a:hover,
+footer a:link {
+	color: inherit;
+}
+
+nav a:link,
+nav a:visited,
+nav a:hover,
+nav a:link {
+	text-decoration: none;
+	color: var(--primary);
+}
+
+.active {
+	font-weight: bold;
+}
+
+h1, h2 {
+	border-top: 1px solid var(--tertiary);
+	padding: .5em 0;
+}
+
+div {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 1em 3em;
+}
+
+section {
+	width: 100%;
+	flex-grow: 1;
+	flex-basis: 10em;
+}
+
+nav {
+	margin: 2em 0 3em 0;
+	font-size: 70%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	margin-right: 1em;
+}
+
+@media only screen and (max-width: 800px) { body { font-size: 1.4em; } }
+@media only screen and (max-width: 600px) { body { font-size: 1.3em; } }
+@media only screen and (max-width: 400px) { body { font-size: 1.2em; } }
