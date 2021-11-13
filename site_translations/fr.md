@@ -6,7 +6,7 @@ Vous pouvez adopter ce simple code de conduite pour votre entreprise, votre équ
 
 Ne soyez pas un connard et ne tolérez pas les connards.
 
-## Vous a-t-on demandé de visiter cette page?
+## On vous a demandé de visiter cette page?
 
 Il peut être judicieux de réfléchir à votre attitude récente.
 
