@@ -3,7 +3,7 @@
 * [Español](/es/)
 * [Français](/fr/)
 * [한국어](/ko/)
+* [Māori](/mi/)
 * [Nederlands](/nl/)
 * [Norsk](/no/)
 * [Suomi](/fi/)
-* [Māori](/mi/)

@@ -1,4 +1,4 @@
-# Kaua e noho poauau
+# Kaua e noho poauau.
 
 ## Tikanga whakahaere
 
@@ -12,4 +12,4 @@ He pai pea te whakaaro ki te whakaaro ki o whanonga o naianei.
 
 __
 
-Waehere whakahaere tuhinga na [Luke Viggers](https://thisisluke.me). Hoahoa me te waehere na [Neatnik](https://neatnik.net/). Te takoha i runga [GitHub](https://github.com/neatnik/asshole.fyi).
+Kuputuhi tikanga whakahaere na [Johnathan Corgan](https://keybase.io/jcorgan). He whakamaoritanga na [Luke Viggers](https://thisisluke.me). Hoahoa me te waehere na [Neatnik](https://neatnik.net/). Te takoha i runga [GitHub](https://github.com/neatnik/asshole.fyi).
