@@ -6,3 +6,4 @@
 * [Nederlands](/nl/)
 * [Norsk](/no/)
 * [Suomi](/fi/)
+* [Māori](/mi/)
