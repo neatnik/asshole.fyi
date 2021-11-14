@@ -46,7 +46,7 @@ foreach($translations as $translation) {
 	file_put_contents('site/'.$translation.'/index.html', $template);
 	chmod('site/'.$translation.'/index.html', 0777); 
 	if($translation == 'en') {
-		file_put_contents('site/index.html', $template);
+		file_put_contents('site/index.html', str_replace('"../style.css"', '"style.css"', $template));
 		chmod('site/index.html', 0777); 
 	}
 }
