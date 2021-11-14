@@ -12,4 +12,4 @@
 
 __
 
-[Johnathan Corgan](https://keybase.io/jcorgan)의 행동 규약 본문을. 번역: [홍 용민 (Yongmin Hong)](https://revi.omg.lol). 이용해 [Neatnik](https://neatnik.net/)이 디자인과 코드를 만들었습니다. [GitHub](https://github.com/neatnik/asshole.fyi)에서 기여할 수 있습니다.
+[Johnathan Corgan](https://keybase.io/jcorgan)의 행동 규약 본문을 썼습니다. [Neatnik](https://neatnik.net/)이 디자인과 코드를 만들었습니다. 번역: [홍 용민 (Yongmin Hong)](https://revi.omg.lol). [GitHub](https://github.com/neatnik/asshole.fyi)에서 기여할 수 있습니다.
