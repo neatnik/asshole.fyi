@@ -1,10 +1,8 @@
-# No seas un cabrón.
+# No seas un cabrón, y no seas tolerante de cabrones.
 
 ## Código de Conducta
 
-Puedes adoptar este sencillo código de conducta para tu empresa, equipo o proyecto de código abierto:
-
-No seas un cabrón, y no seas tolerante de cabrones.
+Puedes adoptar este sencillo código de conducta para tu empresa, equipo o proyecto de código abierto.
 
 ## ¿Te pidieron que visitaras esta página?
 

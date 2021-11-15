@@ -1,10 +1,8 @@
-# Ne sois pas un connard.
+# Ne soyez pas un connard et ne tolérez pas les connards.
 
 ## Code de conduite
 
-Vous pouvez adopter ce simple code de conduite pour votre entreprise, votre équipe ou votre projet open source:
-
-Ne soyez pas un connard et ne tolérez pas les connards.
+Vous pouvez adopter ce simple code de conduite pour votre entreprise, votre équipe ou votre projet open source.
 
 ## On vous a demandé de visiter cette page?
 

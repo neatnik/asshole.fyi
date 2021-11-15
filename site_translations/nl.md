@@ -1,10 +1,8 @@
-# Wees geen klootzak.
+# Wees geen klootzak en tolereer andere klootzakken niet.
 
 ## Gedragscode
 
-Je kunt deze simpele gedragscode opnemen binnen je bedrijf, team of open source project:
-
-Wees geen klootzak en tolereer andere klootzakken niet.
+Je kunt deze simpele gedragscode opnemen binnen je bedrijf, team of open source project.
 
 ## Heeft iemand je deze pagina toegestuurd?
 

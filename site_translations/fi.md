@@ -1,10 +1,8 @@
-# Älä ole kusipää.
+# Älä ole kusipää, äläkä siedä muita kusipäitä.
 
 ## Ohjeistus
 
-Voit ottaa käyttöön tämän yksinkertaisen ohjeistuksen sinun yrityksessä, tiimissä, tai vapaan lähdekoodin projektissasi:
-
-Älä ole kusipää, äläkä siedä muita kusipäitä.
+Voit ottaa käyttöön tämän yksinkertaisen ohjeistuksen sinun yrityksessä, tiimissä, tai vapaan lähdekoodin projektissasi.
 
 ## Pyydettiinkö sinua vierailemaan tällä sivulla?
 

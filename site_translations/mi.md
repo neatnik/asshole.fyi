@@ -1,10 +1,8 @@
-# Kaua e noho poauau.
+# Kaua e noho poauau, kaua hoki e manawanui ki nga kaihe.
 
 ## Tikanga whakahaere
 
-Ka taea e koe te tango i tenei Waehere Whanonga ngawari mo to kamupene, roopu, kaupapa puna tuwhera ranei:
-
-Kaua e noho poauau, kaua hoki e manawanui ki nga kaihe.
+Ka taea e koe te tango i tenei Waehere Whanonga ngawari mo to kamupene, roopu, kaupapa puna tuwhera ranei.
 
 ## I tonoa koe ki te toro ki tenei wharangi?
 

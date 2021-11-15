@@ -28,9 +28,8 @@ main {
 }
 
 footer {
-	margin: 5em 0;
+	margin: 2em 0;
 	font-size: 70%;
-	color: var(--tertiary);
 }
 
 footer a:link,
@@ -38,6 +37,21 @@ footer a:visited,
 footer a:hover,
 footer a:link {
 	color: inherit;
+}
+
+nav {
+	margin: 0 0 0 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	margin-right: 1em;
 }
 
 nav a:link,
@@ -52,7 +66,11 @@ nav a:link {
 	font-weight: bold;
 }
 
-h1, h2 {
+h1 {
+	margin-top: 2em;
+}
+
+h2, footer {
 	border-top: 1px solid var(--tertiary);
 	padding: .5em 0;
 }
@@ -70,22 +88,6 @@ section {
 	flex-basis: 10em;
 }
 
-nav {
-	margin: 2em 0 3em 0;
-	font-size: 70%;
-}
-
-ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-li {
-	display: inline;
-	margin-right: 1em;
-}
-
-@media only screen and (max-width: 800px) { body { font-size: 1.4em; } }
-@media only screen and (max-width: 600px) { body { font-size: 1.3em; } }
-@media only screen and (max-width: 400px) { body { font-size: 1.2em; } }
+@media only screen and (max-width: 800px) { body { font-size: 1.3em; } }
+@media only screen and (max-width: 600px) { body { font-size: 1.2em; } }
+@media only screen and (max-width: 400px) { body { font-size: 1.1em; } }

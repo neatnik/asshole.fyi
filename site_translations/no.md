@@ -1,10 +1,8 @@
-# Ikke vær en drittsekk.
+# Ikke vær en drittsekk, og ikke vær tolerant for drittsekker.
 
 ## Retningslinjer
 
-Du kan ta i bruk denne enkle retningslinjen for din bedrift, ditt team eller ditt åpen kildekode-prosjekt:
-
-Ikke vær en drittsekk, og ikke vær tolerant for drittsekker.
+Du kan ta i bruk denne enkle retningslinjen for din bedrift, ditt team eller ditt åpen kildekode-prosjekt.
 
 ## Ble du bedt om å besøke denne siden?
 

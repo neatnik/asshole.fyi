@@ -1,10 +1,8 @@
-# Don’t be an asshole.
+# Don’t be an asshole, and don’t be tolerant of assholes.
 
 ## Code of Conduct
 
-You can adopt this simple Code of Conduct for your company, team, or open source project:
-
-Don’t be an asshole, and don’t be tolerant of assholes.
+You can adopt this simple Code of Conduct for your company, team, or open source project.
 
 ## Were you asked to visit this page?
 

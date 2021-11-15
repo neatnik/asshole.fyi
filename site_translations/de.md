@@ -1,10 +1,8 @@
-# Sei kein Arschloch.
+# Sei kein Arschloch und sei nicht Tolerant gegenüber Arschlöchern.
 
 ## Verhaltenskodex
 
-Du kannst diesen einfachen Verhaltenskodex für dein Unternehmen, Team oder Open-Source-Projekt übernehmen:
-
-Sei kein Arschloch und sei nicht Tolerant gegenüber Arschlöchern.
+Du kannst diesen einfachen Verhaltenskodex für dein Unternehmen, Team oder Open-Source-Projekt übernehmen.
 
 ## Wurde dir gesagt du sollst auf diese Seite gehen?
 
