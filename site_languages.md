@@ -7,3 +7,4 @@
 * [Nederlands](/nl/)
 * [Norsk](/no/)
 * [Suomi](/fi/)
+* [বাংলা](/bn/)
