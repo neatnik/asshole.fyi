@@ -1,3 +1,4 @@
+* [বাংলা](/bn/)
 * [Deutsch](/de/)
 * [English](/en/)
 * [Español](/es/)
@@ -7,4 +8,3 @@
 * [Nederlands](/nl/)
 * [Norsk](/no/)
 * [Suomi](/fi/)
-* [বাংলা](/bn/)
