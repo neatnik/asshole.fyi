@@ -4,6 +4,7 @@
 * [Español](/es/)
 * [Français](/fr/)
 * [हिन्दी](/hi/)
+* [ಕನ್ನಡ](/kn/)
 * [한국어](/ko/)
 * [Māori](/mi/)
 * [Nederlands](/nl/)

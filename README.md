@@ -84,7 +84,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Japanese              | 日本語                    | ja | Untranslated |
 | Javanese              | ꦧꦱꦗꦮ                   | jv | Untranslated |
 | Kalaallisut           | kalaallisut            | kl | Untranslated |
-| Kannada               | ಕನ್ನಡ                  | kn | Untranslated |
+| ~~Kannada~~           | ~~ಕನ್ನಡ~~              | kn | **[Translated](https://asshole.fyi/kn/)** |
 | Kanuri                | Kanuri                 | kr | Untranslated |
 | Kashmiri              | कॉशुर                  | ks | Untranslated |
 | Kazakh                | қазақ тілі             | kk | Untranslated |
