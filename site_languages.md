@@ -3,6 +3,7 @@
 * [English](/en/)
 * [Español](/es/)
 * [Français](/fr/)
+* [हिन्दी](/hi/)
 * [한국어](/ko/)
 * [Māori](/mi/)
 * [Nederlands](/nl/)
