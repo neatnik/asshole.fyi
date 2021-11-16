@@ -1,0 +1,6 @@
+[[redirects]]
+from = "/*"
+to = "https://asshole.fyi/nl/"
+status = 302
+force = true
+conditions = {Language = ["nl"]}
