@@ -1,6 +1,7 @@
 <?php
 
 $languages = file('site_languages.md', FILE_IGNORE_NEW_LINES);
+$redirects = null;
 
 foreach($languages as $line) {
 	$line = explode('/', str_replace(array('* ', '[', ']', '(', ')'), '', $line));
@@ -52,4 +53,7 @@ foreach($translations as $translation) {
 		file_put_contents('site/index.html', str_replace('"../style.css"', '"style.css"', $template));
 		chmod('site/index.html', 0777);
 	}
+	$redirects .= "[[redirects]]\nfrom = \"https://asshole.fyi\"\nto = \"https://asshole.fyi/$translation/\"\nstatus = 302\nforce = true\nconditions = {Language = [\"$translation\"]}\n\n";
 }
+
+file_put_contents('site/netlify.toml', $redirects);

@@ -1,6 +1,84 @@
 [[redirects]]
 from = "https://asshole.fyi"
+to = "https://asshole.fyi/bn/"
+status = 302
+force = true
+conditions = {Language = ["bn"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/de/"
+status = 302
+force = true
+conditions = {Language = ["de"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/en/"
+status = 302
+force = true
+conditions = {Language = ["en"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/es/"
+status = 302
+force = true
+conditions = {Language = ["es"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/fr/"
+status = 302
+force = true
+conditions = {Language = ["fr"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/hi/"
+status = 302
+force = true
+conditions = {Language = ["hi"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/kn/"
+status = 302
+force = true
+conditions = {Language = ["kn"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/ko/"
+status = 302
+force = true
+conditions = {Language = ["ko"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/mi/"
+status = 302
+force = true
+conditions = {Language = ["mi"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
 to = "https://asshole.fyi/nl/"
 status = 302
 force = true
 conditions = {Language = ["nl"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/no/"
+status = 302
+force = true
+conditions = {Language = ["no"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/fi/"
+status = 302
+force = true
+conditions = {Language = ["fi"]}
+
