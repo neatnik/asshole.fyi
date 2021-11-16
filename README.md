@@ -135,7 +135,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Punjabi               | ਪੰਜਾਬੀ                 | pa | Untranslated |
 | Pali                  | पालि                    | pi | Untranslated |
 | Persian               | فارسی                  | fa | Untranslated |
-| Polish                | język polski           | pl | Untranslated |
+| ~~Polish~~            | ~~polski~~             | pl | **[Translated](https://asshole.fyi/pl/)** |
 | Pashto                | پښتو                   | ps | Untranslated |
 | Portuguese            | Português              | pt | Untranslated |
 | Quechua               | Runa Simi              | qu | Untranslated |

@@ -6,6 +6,7 @@
 * [हिन्दी](/hi/)
 * [ಕನ್ನಡ](/kn/)
 * [한국어](/ko/)
+* [Polski](/pl)
 * [Māori](/mi/)
 * [Nederlands](/nl/)
 * [Norsk](/no/)
