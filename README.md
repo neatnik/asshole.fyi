@@ -9,7 +9,7 @@ If you’d like to assist with translations, please create a new pull request an
 ## Languages
 
 | Language              | Endonym                | ISO 639-1 | Status |
-|-----------------------|------------------------|--------------------|
+|-----------------------|------------------------|-----------|--------|
 | Abkhazian             | аҧсуа бызшәа           | ab | Untranslated |
 | Afar                  | Afaraf                 | aa | Untranslated |
 | Afrikaans             | Afrikaans              | af | Untranslated |
