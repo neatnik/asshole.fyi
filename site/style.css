@@ -27,6 +27,19 @@ main {
 	margin: auto;
 }
 
+div {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 1em 3em;
+}
+
+section {
+	width: 100%;
+	flex-grow: 1;
+	flex-basis: 10em;
+}
+
 footer {
 	margin: 2em 0;
 	font-size: 70%;
@@ -40,7 +53,15 @@ footer a:link {
 }
 
 nav {
-	margin: 0 0 0 0;
+	margin: 3em 0 0 0;
+}
+
+nav a:link,
+nav a:visited,
+nav a:hover,
+nav a:link {
+	text-decoration: none;
+	color: var(--primary);
 }
 
 ul {
@@ -54,14 +75,6 @@ li {
 	margin-right: 1em;
 }
 
-nav a:link,
-nav a:visited,
-nav a:hover,
-nav a:link {
-	text-decoration: none;
-	color: var(--primary);
-}
-
 .active {
 	font-weight: bold;
 }
@@ -73,19 +86,6 @@ h1 {
 h2, footer {
 	border-top: 1px solid var(--tertiary);
 	padding: .5em 0;
-}
-
-div {
-	display: flex;
-	justify-content: space-between;
-	flex-wrap: wrap;
-	gap: 1em 3em;
-}
-
-section {
-	width: 100%;
-	flex-grow: 1;
-	flex-basis: 10em;
 }
 
 @media only screen and (max-width: 800px) { body { font-size: 1.3em; } }
