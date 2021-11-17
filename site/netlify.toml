@@ -52,7 +52,7 @@ from = "https://asshole.fyi"
 to = "https://asshole.fyi/ko/"
 status = 302
 force = true
-conditions = {Language = ["ko"]}
+conditions = {Language = ["ko*"]}
 
 [[redirects]]
 from = "https://asshole.fyi"
