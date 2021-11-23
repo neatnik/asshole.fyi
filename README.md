@@ -137,7 +137,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Persian               | فارسی                  | fa | Untranslated |
 | ~~Polish~~            | ~~polski~~             | pl | **[Translated](https://asshole.fyi/pl/)** |
 | Pashto                | پښتو                   | ps | Untranslated |
-| Portuguese            | Português              | pt | Untranslated |
+| ~~Portuguese~~        | ~~Português~~          | pt | **[Translated](https://asshole.fyi/pt/)** |
 | Quechua               | Runa Simi              | qu | Untranslated |
 | Romansh               | Rumantsch Grischun     | rm | Untranslated |
 | Rundi                 | Ikirundi               | rn | Untranslated |
