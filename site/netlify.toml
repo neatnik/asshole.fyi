@@ -7,6 +7,13 @@ conditions = {Language = ["bn"]}
 
 [[redirects]]
 from = "https://asshole.fyi"
+to = "https://asshole.fyi/id/"
+status = 302
+force = true
+conditions = {Language = ["id"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
 to = "https://asshole.fyi/de/"
 status = 302
 force = true

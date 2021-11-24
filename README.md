@@ -72,7 +72,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Hiri Motu             | Hiri Motu              | ho | Untranslated |
 | Hungarian             | magyar                 | hu | Untranslated |
 | Interlingua           | Interlingua            | ia | Untranslated |
-| Indonesian            | Bahasa Indonesia       | id | Untranslated |
+| ~~Indonesian~~        | ~~Bahasa Indonesia~~   | ~~id~~ | **[Translated](https://asshole.fyi/id/)** |
 | Interlingue           | Interlingue            | ie | Untranslated |
 | Irish                 | Gaeilge                | ga | Untranslated |
 | Igbo                  | Asụsụ Igbo             | ig | Untranslated |

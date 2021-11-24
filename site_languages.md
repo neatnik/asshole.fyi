@@ -1,4 +1,5 @@
 * [বাংলা](/bn/)
+* [Bahasa Indonesia](/id/)
 * [Deutsch](/de/)
 * [English](/en/)
 * [Español](/es/)
