@@ -6,7 +6,7 @@ Vous pouvez adopter ce simple code de conduite pour votre entreprise, votre équ
 
 ## On vous a demandé de visiter cette page?
 
-Il peut être judicieux de réfléchir à votre attitude récente.
+Ce serait une bonne idée de réfléchir à votre comportement récent.
 
 __
 
