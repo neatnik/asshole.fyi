@@ -1,12 +1,12 @@
 # Jangan jadi orang yang menyebalkan, serta jangan memberikan panggung kepada mereka yang menyebalkan.
 
-## "Mengapa saya diminta untuk membaca halaman ini?"
-
-Hm, mungkin coba ingat kembali tindakan Anda yang membuat kami kesal. :)
-
 ## Catatan
 
 Anda dapat membagikan dan melakukan adaptasi dari informasi ini sesuai dengan kebutuhan.
+
+## Mengapa saya diminta untuk membaca halaman ini?
+
+Mungkin coba ingat kembali tindakan Anda yang membuat kami kesal.
 
 __
 
