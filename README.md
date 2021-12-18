@@ -28,7 +28,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Bashkir               | башҡорт теле           | ba | Untranslated |
 | Basque                | euskara                | eu | Untranslated |
 | Belarusian            | беларуская мова        | be | Untranslated |
-| ~~Bengali~~           | ~~বাংলা~~              | ~~bn~~ | **[Translated](https://asshole.fyi/bn/)** |
+| **Bengali**           | **বাংলা**              | **bn** | **[Translated](https://asshole.fyi/bn/)** |
 | Bislama               | Bislama                | bi | Untranslated |
 | Bosnian               | bosanski jezik         | bs | Untranslated |
 | Breton                | brezhoneg              | br | Untranslated |
@@ -47,20 +47,20 @@ If you’d like to assist with translations, please create a new pull request an
 | Czech                 | čeština                | cs | Untranslated |
 | Danish                | dansk                  | da | Untranslated |
 | Divehi                | ދިވެހި                 | dv | Untranslated |
-| ~~Dutch~~             | ~~Nederlands~~         | ~~nl~~ | **[Translated](https://asshole.fyi/nl/)** |
+| **Dutch**             | **Nederlands**         | **nl** | **[Translated](https://asshole.fyi/nl/)** |
 | Dzongkha              | རྫོང་ཁ                 | dz | Untranslated |
-| ~~English~~           | ~~English~~            | ~~en~~ | **[Translated](https://asshole.fyi/en/)** |
+| **English**           | **English**            | **en** | **[Translated](https://asshole.fyi/en/)** |
 | Esperanto             | Esperanto              | eo | Untranslated |
 | Estonian              | eesti                  | et | Untranslated |
 | Ewe                   | Eʋegbe                 | ee | Untranslated |
 | Faroese               | føroyskt               | fo | Untranslated |
 | Fijian                | vosa Vakaviti          | fj | Untranslated |
-| ~~Finnish~~           | ~~suomi~~              | ~~fi~~ | **[Translated](https://asshole.fyi/fi/)** |
-| ~~French~~            | ~~français~~           | ~~fr~~ | **[Translated](https://asshole.fyi/fr/)** |
+| **Finnish**           | **suomi**              | **fi** | **[Translated](https://asshole.fyi/fi/)** |
+| **French**            | **français**           | **fr** | **[Translated](https://asshole.fyi/fr/)** |
 | Fulah                 | Fulfulde               | ff | Untranslated |
 | Galician              | Galego                 | gl | Untranslated |
 | Georgian              | ქართული                | ka | Untranslated |
-| ~~German~~            | ~~Deutsch~~            | ~~de~~ | **[Translated](https://asshole.fyi/de/)** |
+| **German**            | **Deutsch**            | **de** | **[Translated](https://asshole.fyi/de/)** |
 | Greek                 | ελληνικά               | el | Untranslated |
 | Guarani               | Avañe'ẽ                | gn | Untranslated |
 | Gujarati              | ગુજરાતી                | gu | Untranslated |
@@ -68,11 +68,11 @@ If you’d like to assist with translations, please create a new pull request an
 | Hausa                 | هَوُسَ                 | ha | Untranslated |
 | Hebrew                | עברית                  | he | Untranslated |
 | Herero                | Otjiherero             | hz | Untranslated |
-| ~~Hindi~~             | ~~हिन्दी~~             | ~~hi~~ | **[Translated](https://asshole.fyi/hi/)** |
+| **Hindi**             | **हिन्दी**             | **hi** | **[Translated](https://asshole.fyi/hi/)** |
 | Hiri Motu             | Hiri Motu              | ho | Untranslated |
 | Hungarian             | magyar                 | hu | Untranslated |
 | Interlingua           | Interlingua            | ia | Untranslated |
-| ~~Indonesian~~        | ~~Bahasa Indonesia~~   | ~~id~~ | **[Translated](https://asshole.fyi/id/)** |
+| **Indonesian**        | **Bahasa Indonesia**   | **id** | **[Translated](https://asshole.fyi/id/)** |
 | Interlingue           | Interlingue            | ie | Untranslated |
 | Irish                 | Gaeilge                | ga | Untranslated |
 | Igbo                  | Asụsụ Igbo             | ig | Untranslated |
@@ -84,7 +84,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Japanese              | 日本語                    | ja | Untranslated |
 | Javanese              | ꦧꦱꦗꦮ                   | jv | Untranslated |
 | Kalaallisut           | kalaallisut            | kl | Untranslated |
-| ~~Kannada~~           | ~~ಕನ್ನಡ~~              | kn | **[Translated](https://asshole.fyi/kn/)** |
+| **Kannada**           | **ಕನ್ನಡ**              | kn | **[Translated](https://asshole.fyi/kn/)** |
 | Kanuri                | Kanuri                 | kr | Untranslated |
 | Kashmiri              | कॉशुर                  | ks | Untranslated |
 | Kazakh                | қазақ тілі             | kk | Untranslated |
@@ -94,7 +94,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Kirghiz               | Кыргызча               | ky | Untranslated |
 | Komi                  | коми кыв               | kv | Untranslated |
 | Kongo                 | Kikongo                | kg | Untranslated |
-| ~~Korean~~            | ~~한국어~~                | ~~ko~~ | **[Translated](https://asshole.fyi/ko/)** |
+| **Korean**            | **한국어**                | **ko** | **[Translated](https://asshole.fyi/ko/)** |
 | Kurdish               | کوردی‎                 | ku | Untranslated |
 | Kuanyama              | Kuanyama               | kj | Untranslated |
 | Latin                 | latine                 | la | Untranslated |
@@ -112,7 +112,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Malay                 | بهاس ملايو‎            | ms | Untranslated |
 | Malayalam             | മലയാളം                 | ml | Untranslated |
 | Maltese               | Malti                  | mt | Untranslated |
-| ~~Maori~~             | ~~te reo Māori~~       | ~~mi~~ | **[Translated](https://asshole.fyi/mi/)** |
+| **Maori**             | **te reo Māori**       | **mi** | **[Translated](https://asshole.fyi/mi/)** |
 | Marathi               | मराठी                  | mr | Untranslated |
 | Marshallese           | Kajin M̧ajeļ            | mh | Untranslated |
 | Mongolian             | Монгол хэл             | mn | Untranslated |
@@ -123,7 +123,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Ndonga                | Owambo                 | ng | Untranslated |
 | Norwegian Bokmål      | Norsk Bokmål           | nb | Untranslated |
 | Norwegian Nynorsk     | Norsk Nynorsk          | nn | Untranslated |
-| ~~Norwegian~~         | ~~Norsk~~              | ~~no~~ | **[Translated](https://asshole.fyi/no/)** |
+| **Norwegian**         | **Norsk**              | **no** | **[Translated](https://asshole.fyi/no/)** |
 | Sichuan Yi            | ꆈꌠ꒿                    | ii | Untranslated |
 | South Ndebele         | isiNdebele             | nr | Untranslated |
 | Occitan               | occitan                | oc | Untranslated |
@@ -135,9 +135,9 @@ If you’d like to assist with translations, please create a new pull request an
 | Punjabi               | ਪੰਜਾਬੀ                 | pa | Untranslated |
 | Pali                  | पालि                    | pi | Untranslated |
 | Persian               | فارسی                  | fa | Untranslated |
-| ~~Polish~~            | ~~polski~~             | pl | **[Translated](https://asshole.fyi/pl/)** |
+| **Polish**            | **polski**             | pl | **[Translated](https://asshole.fyi/pl/)** |
 | Pashto                | پښتو                   | ps | Untranslated |
-| ~~Portuguese~~        | ~~Português~~          | pt | **[Translated](https://asshole.fyi/pt/)** |
+| **Portuguese**        | **Português**          | pt | **[Translated](https://asshole.fyi/pt/)** |
 | Quechua               | Runa Simi              | qu | Untranslated |
 | Romansh               | Rumantsch Grischun     | rm | Untranslated |
 | Rundi                 | Ikirundi               | rn | Untranslated |
@@ -157,7 +157,7 @@ If you’d like to assist with translations, please create a new pull request an
 | Slovenian             | Slovenski jezik        | sl | Untranslated |
 | Somali                | Soomaaliga             | so | Untranslated |
 | Southern Sotho        | Sesotho                | st | Untranslated |
-| ~~Spanish~~           | ~~Español~~            | ~~es~~ | **[Translated](https://asshole.fyi/es/)** |
+| **Spanish**           | **Español**            | **es** | **[Translated](https://asshole.fyi/es/)** |
 | Sundanese             | Basa Sunda             | su | Untranslated |
 | Swahili               | Kiswahili              | sw | Untranslated |
 | Swati                 | SiSwati                | ss | Untranslated |
