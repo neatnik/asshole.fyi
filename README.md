@@ -6,7 +6,7 @@ This is a free public service for anyone who needs it. Some people need it more 
 
 ## Contributing
 
-If you’d like to assist with translations, please create a new pull request and add a new language file to the [/site_translations](https://github.com/neatnik/asshole.fyi/tree/main/site_translations) directory. Use the [translation template](https://github.com/neatnik/asshole.fyi/blob/main/translation_template.md) as a guide, and be sure to give yourself credit for your translation at the bottom (or you can remain anonymous by just removing the “Translation by” portion of the footer).
+If you’d like to assist with translations, please create a new pull request and add a new language file to the [/site_translations](https://github.com/neatnik/asshole.fyi/tree/main/site_translations) directory. Use the [translation template](https://raw.githubusercontent.com/neatnik/asshole.fyi/main/translation_template.md) as a guide, and be sure to give yourself credit for your translation at the bottom (or you can remain anonymous by just removing the “Translation by” portion of the footer).
 
 ## Languages
 
