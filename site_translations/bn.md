@@ -6,8 +6,8 @@
 
 ## এই পেজের লিঙ্ক কি কেও আপনাকে পাঠিয়েছে?
 
-অনুগ্রহ করে একটু আপনার সম্প্রতিক আচরণের কথা ভাবুন।
+অনুগ্রহ করে একটু আপনার সাম্প্রতিক আচরণের কথা ভাবুন।
 
 __
 
-আচরণ বিধিমালার মূলপাঠ: [Johnathan Corgan](https://keybase.io/jcorgan) । অনুবাদ: ফাহমিনা এবং [zer0](https://zer0.omg.lol) । ডিজাইন এবং কোড:‌‍‍‌‌ [Neatnik](https://neatnik.net/) । অবদান করুন: [GitHub](https://github.com/neatnik/asshole.fyi)
+আচরণ বিধিমালার মূলপাঠ: [Johnathan Corgan](https://keybase.io/jcorgan) । অনুবাদ: ফাহমিনা, [nashrif](https://www.behance.net/islamnashrif) এবং [zer0](https://zer0.omg.lol) । ডিজাইন এবং কোড:‌‍‍‌‌ [Neatnik](https://neatnik.net/) । অবদান করুন: [GitHub](https://github.com/neatnik/asshole.fyi)
