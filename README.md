@@ -8,6 +8,8 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
+As of 2021-12-17, the site has been translated into 15 languages, with 168 remaining.
+
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
 | Abkhazian             | аҧсуа бызшәа           | ab | Untranslated |
