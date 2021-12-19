@@ -103,3 +103,10 @@ status = 302
 force = true
 conditions = {Language = ["fi"]}
 
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/tr/"
+status = 302
+force = true
+conditions = {Language = ["tr"]}
+

@@ -10,7 +10,7 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
-As of 2021-12-17, the site has been translated into 15 languages, with 168 remaining.
+As of 2021-12-19, the site has been translated into 16 languages, with 167 remaining.
 
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
@@ -176,12 +176,12 @@ As of 2021-12-17, the site has been translated into 15 languages, with 168 remai
 | Tagalog               | Wikang Tagalog         | tl | Untranslated |
 | Tswana                | Setswana               | tn | Untranslated |
 | Tonga                 | Faka Tonga             | to | Untranslated |
-| Turkish               | Türkçe                 | tr | Untranslated |
+| **Turkish**               | **Türkçe**                 | **tr** | **[Translated](https://asshole.fyi/tr/)** |
 | Tsonga                | Xitsonga               | ts | Untranslated |
 | Tatar                 | татар теле             | tt | Untranslated |
 | Twi                   | Twi                    | tw | Untranslated |
 | Tahitian              | Reo Tahiti             | ty | Untranslated |
-| Uighur                | ئۇيغۇرچە‎               | ug | Untranslated |
+| Uighur                | ئۇيغۇر تىلى‎      | ug | Untranslated |
 | Ukrainian             | Українська             | uk | Untranslated |
 | Urdu                  | اردو                   | ur | Untranslated |
 | Uzbek                 | Oʻzbek                 | uz | Untranslated |
