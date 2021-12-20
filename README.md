@@ -10,7 +10,7 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
-As of 2021-12-19, the site has been translated into 16 languages, with 167 remaining.
+As of 2021-12-19, the site has been translated into 17 languages, with 166 remaining.
 
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
@@ -85,7 +85,7 @@ As of 2021-12-19, the site has been translated into 16 languages, with 167 remai
 | Icelandic             | Íslenska               | is | Untranslated |
 | Italian               | Italiano               | it | Untranslated |
 | Inuktitut             | ᐃᓄᒃᑎᑐᑦ                 | iu | Untranslated |
-| Japanese              | 日本語                    | ja | Untranslated |
+| **Japanese**          | **日本語**              | **ja** | **[Translated](https://asshole.fyi/ja/)** |
 | Javanese              | ꦧꦱꦗꦮ                   | jv | Untranslated |
 | Kalaallisut           | kalaallisut            | kl | Untranslated |
 | **Kannada**           | **ಕನ್ನಡ**              | kn | **[Translated](https://asshole.fyi/kn/)** |
