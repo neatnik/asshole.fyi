@@ -35,6 +35,7 @@ As of 2021-12-19, the site has been translated into 17 languages, with 166 remai
 | **Bengali**           | **বাংলা**              | **bn** | **[Translated](https://asshole.fyi/bn/)** |
 | Bislama               | Bislama                | bi | Untranslated |
 | Bosnian               | bosanski jezik         | bs | Untranslated |
+| **Brazilian Portuguese** | **Português do Brasil** | **pt-br** | **[Translated](https://asshole.fyi/pt-br/)** |
 | Breton                | brezhoneg              | br | Untranslated |
 | Bulgarian             | български език         | bg | Untranslated |
 | Burmese               | ဗမာစာ                  | my | Untranslated |
