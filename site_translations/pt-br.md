@@ -10,4 +10,4 @@ Pode ser uma boa ideia refletir sobre os seus comportamentos anteriores
 
 __
 
-Code of conduct text by [Johnathan Corgan](https://keybase.io/jcorgan). Translation by [Translator’s Name](https://example.com). Design and code by [Neatnik](https://neatnik.net/). Contribute on [GitHub](https://github.com/neatnik/asshole.fyi).
+Texto de [Johnathan Corgan](https://keybase.io/jcorgan). Desenho e código de [Neatnik](https://neatnik.net/). Contribui em [GitHub](https://github.com/neatnik/asshole.fyi).

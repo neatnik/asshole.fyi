@@ -10,6 +10,7 @@
 * [한국어](/ko/)
 * [Polski](/pl)
 * [Português](/pt)
+* [Português do Brasil](/pt-br)
 * [Māori](/mi/)
 * [Nederlands](/nl/)
 * [Norsk](/no/)
