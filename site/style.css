@@ -18,7 +18,7 @@ body {
 	font-size: 1.5em;
 	color: var(--primary);
 	background: var(--secondary);
-	word-break: keep-all;
+	/*word-break: keep-all;*/
 }
 
 main {
