@@ -1,3 +1,5 @@
+* [العربية
+](/ar/)
 * [বাংলা](/bn/)
 * [Bahasa Indonesia](/id/)
 * [Deutsch](/de/)
