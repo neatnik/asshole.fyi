@@ -1,5 +1,12 @@
 [[redirects]]
 from = "https://asshole.fyi"
+to = "https://asshole.fyi/ar/"
+status = 302
+force = true
+conditions = {Language = ["ar"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
 to = "https://asshole.fyi/bn/"
 status = 302
 force = true

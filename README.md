@@ -10,7 +10,7 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
-As of 2021-12-19, the site has been translated into 17 languages, with 166 remaining.
+As of 2022-03-01, the site has been translated into 18 languages, with 165 remaining.
 
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
@@ -20,7 +20,7 @@ As of 2021-12-19, the site has been translated into 17 languages, with 166 remai
 | Akan                  | Akan                   | ak | Untranslated |
 | Albanian              | Shqip                  | sq | Untranslated |
 | Amharic               | አማርኛ                   | am | Untranslated |
-| Arabic                | العربية                | ar | Untranslated |
+| **Arabic**            | **العربية**            | **ar** | **[Translated](https://asshole.fyi/ar/)** |
 | Aragonese             | aragonés               | an | Untranslated |
 | Armenian              | Հայերեն                | hy | Untranslated |
 | Assamese              | অসমীয়া                | as | Untranslated |
