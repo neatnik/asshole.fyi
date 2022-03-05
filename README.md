@@ -10,7 +10,7 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
-As of 2022-03-01, the site has been translated into 18 languages, with 165 remaining.
+As of 2022-03-04, the site has been translated into 20 languages, with 163 remaining.
 
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
