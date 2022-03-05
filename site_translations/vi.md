@@ -4,7 +4,7 @@
 
 Bạn có thể áp dụng Quy tắc ứng xử đơn giản này cho công ty, nhóm hoặc dự án nguồn mở của mình.
 
-## Bạn có hỏi được yêu cầu truy cập trang này không?
+## Bạn có hỏi hoặc được yêu cầu truy cập trang này không?
 
 Có thể là một ý kiến - phản ánh hành vi gần đây của bạn.
 
