@@ -17,3 +17,4 @@
 * [Norsk](/no/)
 * [Suomi](/fi/)
 * [Türkçe](/tr/)
+* [Tiếng Việt](/vi/)

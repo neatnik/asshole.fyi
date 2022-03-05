@@ -187,7 +187,7 @@ As of 2022-03-01, the site has been translated into 18 languages, with 165 remai
 | Urdu                  | اردو                   | ur | Untranslated |
 | Uzbek                 | Oʻzbek                 | uz | Untranslated |
 | Venda                 | Tshivenḓa              | ve | Untranslated |
-| Vietnamese            | Tiếng Việt             | vi | Untranslated |
+| **Vietnamese**            | **Tiếng Việt**             | **vi** | **[Translated](https://asshole.fyi/vi/)** |
 | Volapük               | Volapük                | vo | Untranslated |
 | Walloon               | Walon                  | wa | Untranslated |
 | Welsh                 | Cymraeg                | cy | Untranslated |
