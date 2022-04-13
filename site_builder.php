@@ -3,12 +3,29 @@
 $languages = file('site_languages.md', FILE_IGNORE_NEW_LINES);
 $redirects = null;
 
+$rtl = array('ar', 'az', 'dv', 'he', 'ku', 'fa', 'ur');
+
 foreach($languages as $line) {
 	$line = explode('/', str_replace(array('* ', '[', ']', '(', ')'), '', $line));
 	$language = $line[0];
 	$language_code = $line[1];
 	$translations[] = $language_code;
 	$language_nav[$language_code] = $language;
+	
+	/*
+	if(in_array($language_code, $rtl)) {
+		echo 'IN! '.$language_code;
+		$direction = 'rtl';
+	}
+	else {
+		$direction = 'auto';
+	}
+	*/
+	
+	//$direction = in_array($language_code, $rtl) ? 'rtl' : 'auto';
+	
+	//echo '###'.$language_code.'###'."\n";
+	
 }
 
 foreach($translations as $translation) {
@@ -30,7 +47,16 @@ foreach($translations as $translation) {
 	}
 	$language_list .= "\n\t\t".'</ul>';
 	
+	// rtl support
+	if(in_array($translation, $rtl)) {
+		$direction = 'rtl';
+	}
+	else {
+		$direction = 'auto';
+	}
+	
 	$template = str_replace('{language}', $translation, $template);
+	$template = str_replace('{direction}', $direction, $template);
 	$template = str_replace('{languages}', $language_list, $template);
 	$template = str_replace('{code_of_conduct}', $code_of_conduct, $template);
 	$template = str_replace('{code_of_conduct_heading}', $code_of_conduct_heading, $template);
