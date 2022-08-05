@@ -1,4 +1,4 @@
-# Não sejas um cabrão, e não toleres cabrões.
+# Não sejas um otário, e não toleres otários.
 
 ## Código de Conduta
 
