@@ -18,3 +18,4 @@
 * [Suomi](/fi/)
 * [Türkçe](/tr/)
 * [Tiếng Việt](/vi/)
+* [汉语](/zh/)
