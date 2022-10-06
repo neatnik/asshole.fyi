@@ -10,7 +10,7 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
-As of 2022-03-04, the site has been translated into 20 languages, with 163 remaining.
+As of 2022-10-06, the site has been translated into 20 languages, with 162 remaining.
 
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
@@ -19,11 +19,11 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | Afrikaans             | Afrikaans              | af | Untranslated |
 | Akan                  | Akan                   | ak | Untranslated |
 | Albanian              | Shqip                  | sq | Untranslated |
-| Amharic               | አማርኛ                   | am | Untranslated |
+| Amharic               | አማርኛ                  | am | Untranslated |
 | **Arabic**            | **العربية**            | **ar** | **[Translated](https://asshole.fyi/ar/)** |
 | Aragonese             | aragonés               | an | Untranslated |
 | Armenian              | Հայերեն                | hy | Untranslated |
-| Assamese              | অসমীয়া                | as | Untranslated |
+| Assamese              | অসমীয়া                 | as | Untranslated |
 | Avaric                | авар мацӀ              | av | Untranslated |
 | Avestan               | avesta                 | ae | Untranslated |
 | Aymara                | aymar aru              | ay | Untranslated |
@@ -32,7 +32,7 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | Bashkir               | башҡорт теле           | ba | Untranslated |
 | Basque                | euskara                | eu | Untranslated |
 | Belarusian            | беларуская мова        | be | Untranslated |
-| **Bengali**           | **বাংলা**              | **bn** | **[Translated](https://asshole.fyi/bn/)** |
+| **Bengali**           | **বাংলা**               | **bn** | **[Translated](https://asshole.fyi/bn/)** |
 | Bislama               | Bislama                | bi | Untranslated |
 | Bosnian               | bosanski jezik         | bs | Untranslated |
 | **Brazilian Portuguese** | **Português do Brasil** | **pt-br** | **[Translated](https://asshole.fyi/pt-br/)** |
@@ -43,7 +43,7 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | Chamorro              | Chamoru                | ch | Untranslated |
 | Chechen               | нохчийн мотт           | ce | Untranslated |
 | Chichewa              | chiCheŵa               | ny | Untranslated |
-| Chinese               | 中文                     | zh | Untranslated |
+| **Chinese**           | **中文**                | **[Translated](https://asshole.fyi/zh/)** |
 | Chuvash               | чӑваш чӗлхи            | cv | Untranslated |
 | Cornish               | Kernewek               | kw | Untranslated |
 | Corsican              | corsu                  | co | Untranslated |
@@ -51,10 +51,9 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | Croatian              | hrvatski jezik         | hr | Untranslated |
 | Czech                 | čeština                | cs | Untranslated |
 | Danish                | dansk                  | da | Untranslated |
-| Divehi                | ދިވެހި                 | dv | Untranslated |
+| Divehi                | ދިވެހި                    | dv | Untranslated |
 | **Dutch**             | **Nederlands**         | **nl** | **[Translated](https://asshole.fyi/nl/)** |
-| Dzongkha              | རྫོང་ཁ                 | dz | Untranslated |
-| **English**           | **English**            | **en** | **[Translated](https://asshole.fyi/en/)** |
+| Dzongkha              | རྫོང་ཁ                    | dz | Untranslated |
 | Esperanto             | Esperanto              | eo | Untranslated |
 | Estonian              | eesti                  | et | Untranslated |
 | Ewe                   | Eʋegbe                 | ee | Untranslated |
@@ -68,12 +67,12 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | **German**            | **Deutsch**            | **de** | **[Translated](https://asshole.fyi/de/)** |
 | Greek                 | ελληνικά               | el | Untranslated |
 | Guarani               | Avañe'ẽ                | gn | Untranslated |
-| Gujarati              | ગુજરાતી                | gu | Untranslated |
+| Gujarati              | ગુજરાતી                  | gu | Untranslated |
 | Haitian               | Kreyòl ayisyen         | ht | Untranslated |
-| Hausa                 | هَوُسَ                 | ha | Untranslated |
+| Hausa                 | هَوُسَ                    | ha | Untranslated |
 | Hebrew                | עברית                  | he | Untranslated |
 | Herero                | Otjiherero             | hz | Untranslated |
-| **Hindi**             | **हिन्दी**             | **hi** | **[Translated](https://asshole.fyi/hi/)** |
+| **Hindi**             | **हिन्दी**                | **hi** | **[Translated](https://asshole.fyi/hi/)** |
 | Hiri Motu             | Hiri Motu              | ho | Untranslated |
 | Hungarian             | magyar                 | hu | Untranslated |
 | Interlingua           | Interlingua            | ia | Untranslated |
@@ -87,13 +86,13 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | Italian               | Italiano               | it | Untranslated |
 | Inuktitut             | ᐃᓄᒃᑎᑐᑦ                 | iu | Untranslated |
 | **Japanese**          | **日本語**              | **ja** | **[Translated](https://asshole.fyi/ja/)** |
-| Javanese              | ꦧꦱꦗꦮ                   | jv | Untranslated |
+| Javanese              | ꦧꦱꦗꦮ                | jv | Untranslated |
 | Kalaallisut           | kalaallisut            | kl | Untranslated |
-| **Kannada**           | **ಕನ್ನಡ**              | kn | **[Translated](https://asshole.fyi/kn/)** |
+| **Kannada**           | **ಕನ್ನಡ**               | kn | **[Translated](https://asshole.fyi/kn/)** |
 | Kanuri                | Kanuri                 | kr | Untranslated |
-| Kashmiri              | कॉशुर                  | ks | Untranslated |
+| Kashmiri              | कॉशुर                    | ks | Untranslated |
 | Kazakh                | қазақ тілі             | kk | Untranslated |
-| Central Khmer         | ខ្មែរ                  | km | Untranslated |
+| Central Khmer         | ខ្មែរ                     | km | Untranslated |
 | Kikuyu                | Gĩkũyũ                 | ki | Untranslated |
 | Kinyarwanda           | Ikinyarwanda           | rw | Untranslated |
 | Kirghiz               | Кыргызча               | ky | Untranslated |
@@ -124,7 +123,7 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | Nauru                 | Dorerin Naoero         | na | Untranslated |
 | Navajo                | Diné bizaad            | nv | Untranslated |
 | North Ndebele         | isiNdebele             | nd | Untranslated |
-| Nepali                | नेपाली                 | ne | Untranslated |
+| Nepali                | नेपाली                   | ne | Untranslated |
 | Ndonga                | Owambo                 | ng | Untranslated |
 | Norwegian Bokmål      | Norsk Bokmål           | nb | Untranslated |
 | Norwegian Nynorsk     | Norsk Nynorsk          | nn | Untranslated |
@@ -132,12 +131,12 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | Sichuan Yi            | ꆈꌠ꒿                    | ii | Untranslated |
 | South Ndebele         | isiNdebele             | nr | Untranslated |
 | Occitan               | occitan                | oc | Untranslated |
-| Ojibwa                | ᐊᓂᔑᓈᐯᒧᐎᓐ               | oj | Untranslated |
+| Ojibwa                | ᐊᓂᔑᓈᐯᒧᐎᓐ             | oj | Untranslated |
 | Church Slavic         | ѩзыкъ словѣньскъ       | cu | Untranslated |
-| Oromo                 | Afaan Oromoo            | om | Untranslated |
-| Oriya                 | ଓଡ଼ିଆ                  | or | Untranslated |
+| Oromo                 | Afaan Oromoo           | om | Untranslated |
+| Oriya                 | ଓଡ଼ିଆ                    | or | Untranslated |
 | Ossetian              | ирон ӕвзаг             | os | Untranslated |
-| Punjabi               | ਪੰਜਾਬੀ                 | pa | Untranslated |
+| Punjabi               | ਪੰਜਾਬੀ                   | pa | Untranslated |
 | Pali                  | पालि                    | pi | Untranslated |
 | Persian               | فارسی                  | fa | Untranslated |
 | **Polish**            | **polski**             | pl | **[Translated](https://asshole.fyi/pl/)** |
@@ -177,12 +176,12 @@ As of 2022-03-04, the site has been translated into 20 languages, with 163 remai
 | Tagalog               | Wikang Tagalog         | tl | Untranslated |
 | Tswana                | Setswana               | tn | Untranslated |
 | Tonga                 | Faka Tonga             | to | Untranslated |
-| **Turkish**               | **Türkçe**                 | **tr** | **[Translated](https://asshole.fyi/tr/)** |
+| **Turkish**           | **Türkçe**             | **tr** | **[Translated](https://asshole.fyi/tr/)** |
 | Tsonga                | Xitsonga               | ts | Untranslated |
 | Tatar                 | татар теле             | tt | Untranslated |
 | Twi                   | Twi                    | tw | Untranslated |
 | Tahitian              | Reo Tahiti             | ty | Untranslated |
-| Uighur                | ئۇيغۇر تىلى‎      | ug | Untranslated |
+| Uighur                | ئۇيغۇر تىلى‎            | ug | Untranslated |
 | Ukrainian             | Українська             | uk | Untranslated |
 | Urdu                  | اردو                   | ur | Untranslated |
 | Uzbek                 | Oʻzbek                 | uz | Untranslated |
