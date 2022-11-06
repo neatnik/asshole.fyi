@@ -2,9 +2,9 @@
 
 ## Davranış Kuralları
 
-Şirketiniz, ekibiniz veya açık kaynak projeniz için bu basit Davranış kurallarını benimseyebilirsiniz.
+Şirketiniz, ekibiniz veya açık kaynak projeniz için bu basit Davranış Kuralları'nı benimseyebilirsiniz.
 
-## Bu sayfayı ziyaret etmeniz istendi mi?
+## Bu sayfayı ziyaret etmeniz mi istendi?
 
 Son davranışlarınızı düşünmek iyi bir fikir olabilir.
 
