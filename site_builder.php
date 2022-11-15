@@ -11,21 +11,6 @@ foreach($languages as $line) {
 	$language_code = $line[1];
 	$translations[] = $language_code;
 	$language_nav[$language_code] = $language;
-	
-	/*
-	if(in_array($language_code, $rtl)) {
-		echo 'IN! '.$language_code;
-		$direction = 'rtl';
-	}
-	else {
-		$direction = 'auto';
-	}
-	*/
-	
-	//$direction = in_array($language_code, $rtl) ? 'rtl' : 'auto';
-	
-	//echo '###'.$language_code.'###'."\n";
-	
 }
 
 foreach($translations as $translation) {
