@@ -133,6 +133,20 @@ conditions = {Language = ["tr"]}
 
 [[redirects]]
 from = "https://asshole.fyi"
+to = "https://asshole.fyi/ro/"
+status = 302
+force = true
+conditions = {Language = ["ro"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/ru/"
+status = 302
+force = true
+conditions = {Language = ["ru"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
 to = "https://asshole.fyi/vi/"
 status = 302
 force = true
