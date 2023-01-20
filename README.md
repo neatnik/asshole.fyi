@@ -182,7 +182,7 @@ As of 2022-11-14, the site has been translated into 22 languages, with 160 remai
 | Twi                   | Twi                    | tw | Untranslated |
 | Tahitian              | Reo Tahiti             | ty | Untranslated |
 | Uighur                | ئۇيغۇر تىلى‎            | ug | Untranslated |
-| Ukrainian             | Українська             | uk | Untranslated |
+| **Ukrainian**         | **Українська**         | **uk** | **[Translated](https://asshole.fyi/uk/)** |
 | Urdu                  | اردو                   | ur | Untranslated |
 | Uzbek                 | Oʻzbek                 | uz | Untranslated |
 | Venda                 | Tshivenḓa              | ve | Untranslated |
