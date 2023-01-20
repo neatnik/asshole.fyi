@@ -17,5 +17,7 @@
 * [Norsk](/no/)
 * [Suomi](/fi/)
 * [Türkçe](/tr/)
+* [Română](/ro/)
+* [русский](/ru/)
 * [Tiếng Việt](/vi/)
 * [中文](/zh/)

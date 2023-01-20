@@ -10,7 +10,7 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
-As of 2022-10-06, the site has been translated into 20 languages, with 162 remaining.
+As of 2022-11-14, the site has been translated into 22 languages, with 160 remaining.
 
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
@@ -145,8 +145,8 @@ As of 2022-10-06, the site has been translated into 20 languages, with 162 remai
 | Quechua               | Runa Simi              | qu | Untranslated |
 | Romansh               | Rumantsch Grischun     | rm | Untranslated |
 | Rundi                 | Ikirundi               | rn | Untranslated |
-| Romanian              | Română                 | ro | Untranslated |
-| Russian               | русский                | ru | Untranslated |
+| **Romanian**          | **Română**             | ro | **[Translated](https://asshole.fyi/ro/)** |
+| **Russian**           | **русский**            | ru | **[Translated](https://asshole.fyi/ru/)** |
 | Sanskrit              | संस्कृतम्                  | sa | Untranslated |
 | Sardinian             | sardu                  | sc | Untranslated |
 | Sindhi                | सिंधी                    | sd | Untranslated |
