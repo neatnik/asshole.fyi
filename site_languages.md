@@ -4,6 +4,7 @@
 * [Deutsch](/de/)
 * [English](/en/)
 * [Español](/es/)
+* [Filipino](/fil/)
 * [Français](/fr/)
 * [हिन्दी](/hi/)
 * [日本語](/ja/)

@@ -1,6 +1,7 @@
 # Huwag kang gago, at huwag kang makisama sa mga gago.
 
 ## Code of Conduct
+
 Maaari mong gamitin ang Code of Conduct na ito para sa inyong kumpanya, team, o proyekto na open-source.
 
 ## Hiniling ba sa iyo na bisitahin ang webpage na ito?

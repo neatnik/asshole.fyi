@@ -16,7 +16,6 @@ foreach($languages as $line) {
 foreach($translations as $translation) {
 	$template = file_get_contents('site_template.html');
 	$file = file('site_translations/'.$translation.'.md', FILE_IGNORE_NEW_LINES);
-	
 	$code_of_conduct = trim(str_replace('#', '', $file[0]));
 	$code_of_conduct_heading = trim(str_replace('##', '', $file[2]));
 	$code_of_conduct_intro = trim($file[4]);
