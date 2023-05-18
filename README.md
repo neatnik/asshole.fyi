@@ -10,7 +10,7 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
-As of 2022-11-14, the site has been translated into 22 languages, with 160 remaining.
+As of 2023-05-18, the site has been translated into 23 languages, with 161 remaining.
 
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
@@ -43,7 +43,7 @@ As of 2022-11-14, the site has been translated into 22 languages, with 160 remai
 | Chamorro              | Chamoru                | ch | Untranslated |
 | Chechen               | нохчийн мотт           | ce | Untranslated |
 | Chichewa              | chiCheŵa               | ny | Untranslated |
-| **Chinese**           | **中文**                | **[Translated](https://asshole.fyi/zh/)** |
+| **Chinese**           | **中文**                | **zh** | **[Translated](https://asshole.fyi/zh/)** |
 | Chuvash               | чӑваш чӗлхи            | cv | Untranslated |
 | Cornish               | Kernewek               | kw | Untranslated |
 | Corsican              | corsu                  | co | Untranslated |
@@ -59,6 +59,7 @@ As of 2022-11-14, the site has been translated into 22 languages, with 160 remai
 | Ewe                   | Eʋegbe                 | ee | Untranslated |
 | Faroese               | føroyskt               | fo | Untranslated |
 | Fijian                | vosa Vakaviti          | fj | Untranslated |
+| **Filipino**          | **Wikang Filipino**    | **fil** | **[Translated](https://asshole.fyi/fil/)** |
 | **Finnish**           | **suomi**              | **fi** | **[Translated](https://asshole.fyi/fi/)** |
 | **French**            | **français**           | **fr** | **[Translated](https://asshole.fyi/fr/)** |
 | Fulah                 | Fulfulde               | ff | Untranslated |
@@ -88,7 +89,7 @@ As of 2022-11-14, the site has been translated into 22 languages, with 160 remai
 | **Japanese**          | **日本語**              | **ja** | **[Translated](https://asshole.fyi/ja/)** |
 | Javanese              | ꦧꦱꦗꦮ                | jv | Untranslated |
 | Kalaallisut           | kalaallisut            | kl | Untranslated |
-| **Kannada**           | **ಕನ್ನಡ**               | kn | **[Translated](https://asshole.fyi/kn/)** |
+| **Kannada**           | **ಕನ್ನಡ**               | **kn** | **[Translated](https://asshole.fyi/kn/)** |
 | Kanuri                | Kanuri                 | kr | Untranslated |
 | Kashmiri              | कॉशुर                    | ks | Untranslated |
 | Kazakh                | қазақ тілі             | kk | Untranslated |

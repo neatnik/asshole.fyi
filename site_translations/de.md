@@ -10,4 +10,4 @@ Es wäre ein guter Zeitpunkt über dein Verhalten nachzudenken.
 
 __
 
-Verhaltenskodex von [Johnathan Corgan](https://keybase.io/jcorgan). Übersetzung von [JoshuaHasNoClue](https://joshuajun.omg.lol). Design und Code von [Neatnik](https://neatnik.net/). Beteilige dich auf [GitHub](https://github.com/neatnik/asshole.fyi).
+Verhaltenskodex von [Johnathan Corgan](https://keybase.io/jcorgan). Übersetzung von [JPlexer](https://jplexer.omg.lol/). Design und Code von [Neatnik](https://neatnik.net/). Beteilige dich auf [GitHub](https://github.com/neatnik/asshole.fyi).
