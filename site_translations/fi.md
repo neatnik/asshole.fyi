@@ -10,4 +10,4 @@ Saattaisi olla hyvä ajatus miettiä aiempaa toimintaasi.
 
 __
 
-Ohjeistus tekstin tehnyt [Johnathan Corgan](https://keybase.io/jcorgan). Kääntänyt [Skelly](https://skelly.omg.lol). Mallin ja koodin tehnyt [Neatnik](https://neatnik.net/). Edistä projektia [GitHubissa](https://github.com/neatnik/asshole.fyi).
+Ohjeistus tekstin tehnyt [Johnathan Corgan](https://keybase.io/jcorgan). Kääntänyt [Emilia](https://015.sh). Mallin ja koodin tehnyt [Neatnik](https://neatnik.net/). Edistä projektia [GitHubissa](https://github.com/neatnik/asshole.fyi).
