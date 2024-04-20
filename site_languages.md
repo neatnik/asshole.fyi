@@ -16,7 +16,7 @@
 * [Māori](/mi/)
 * [Nederlands](/nl/)
 * [Norsk](/no/)
-* [Suomi](/fi/)
+* [suomi](/fi/)
 * [Türkçe](/tr/)
 * [Română](/ro/)
 * [русский](/ru/)
