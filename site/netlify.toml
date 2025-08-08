@@ -35,6 +35,13 @@ conditions = {Language = ["en"]}
 
 [[redirects]]
 from = "https://asshole.fyi"
+to = "https://asshole.fyi/en-gb/"
+status = 302
+force = true
+conditions = {Language = ["en-gb"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
 to = "https://asshole.fyi/es/"
 status = 302
 force = true
@@ -144,6 +151,13 @@ to = "https://asshole.fyi/ro/"
 status = 302
 force = true
 conditions = {Language = ["ro"]}
+
+[[redirects]]
+from = "https://asshole.fyi"
+to = "https://asshole.fyi/sr/"
+status = 302
+force = true
+conditions = {Language = ["sr"]}
 
 [[redirects]]
 from = "https://asshole.fyi"
