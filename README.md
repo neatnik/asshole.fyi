@@ -1,8 +1,6 @@
 # asshole.fyi
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f2dfdea5-eca7-46bd-be99-27afd2841b37/deploy-status)](https://app.netlify.com/sites/asshole-fyi/deploys)
-
-This is a free public service for anyone who needs it. Some people need it more than others.
+This is a free public service for anyone who needs it. Some people need it more than others. Available on the web at [asshole.fyi](https://asshole.fyi).
 
 ## Contributing
 
@@ -10,7 +8,7 @@ If you’d like to assist with translations, please create a new pull request an
 
 ## Languages
 
-As of 2023-05-18, the site has been translated into 23 languages, with 161 remaining.
+As of 2025-08-07, the site has been translated into 25 languages, with 159 remaining.
 
 | Language              | Endonym                | ISO 639-1 | Status |
 |-----------------------|------------------------|-----------|--------|
@@ -23,7 +21,7 @@ As of 2023-05-18, the site has been translated into 23 languages, with 161 remai
 | **Arabic**            | **العربية**            | **ar** | **[Translated](https://asshole.fyi/ar/)** |
 | Aragonese             | aragonés               | an | Untranslated |
 | Armenian              | Հայերեն                | hy | Untranslated |
-| Assamese              | অসমীয়া                 | as | Untranslated |
+| Assamese              | অসমীয়া                  | as | Untranslated |
 | Avaric                | авар мацӀ              | av | Untranslated |
 | Avestan               | avesta                 | ae | Untranslated |
 | Aymara                | aymar aru              | ay | Untranslated |
@@ -99,26 +97,26 @@ As of 2023-05-18, the site has been translated into 23 languages, with 161 remai
 | Kirghiz               | Кыргызча               | ky | Untranslated |
 | Komi                  | коми кыв               | kv | Untranslated |
 | Kongo                 | Kikongo                | kg | Untranslated |
-| **Korean**            | **한국어**                | **ko** | **[Translated](https://asshole.fyi/ko/)** |
-| Kurdish               | کوردی‎                 | ku | Untranslated |
+| **Korean**            | **한국어**               | **ko** | **[Translated](https://asshole.fyi/ko/)** |
+| Kurdish               | کوردی‎             | ku | Untranslated |
 | Kuanyama              | Kuanyama               | kj | Untranslated |
 | Latin                 | latine                 | la | Untranslated |
 | Luxembourgish         | Lëtzebuergesch         | lb | Untranslated |
 | Ganda                 | Luganda                | lg | Untranslated |
 | Limburgan             | Limburgs               | li | Untranslated |
 | Lingala               | Lingála                | ln | Untranslated |
-| Lao                   | ພາສາລາວ                | lo | Untranslated |
+| Lao                   | ພາສາລາວ                 | lo | Untranslated |
 | Lithuanian            | lietuvių kalba         | lt | Untranslated |
 | Luba-Katanga          | Kiluba                 | lu | Untranslated |
 | Latvian               | latviešu valoda        | lv | Untranslated |
 | Manx                  | Gaelg                  | gv | Untranslated |
 | Macedonian            | македонски јазик       | mk | Untranslated |
 | Malagasy              | fiteny malagasy        | mg | Untranslated |
-| Malay                 | بهاس ملايو‎            | ms | Untranslated |
+| Malay                 | بهاس ملايو‎         | ms | Untranslated |
 | Malayalam             | മലയാളം                 | ml | Untranslated |
 | Maltese               | Malti                  | mt | Untranslated |
 | **Maori**             | **te reo Māori**       | **mi** | **[Translated](https://asshole.fyi/mi/)** |
-| Marathi               | मराठी                  | mr | Untranslated |
+| Marathi               | मराठी                    | mr | Untranslated |
 | Marshallese           | Kajin M̧ajeļ            | mh | Untranslated |
 | Mongolian             | Монгол хэл             | mn | Untranslated |
 | Nauru                 | Dorerin Naoero         | na | Untranslated |
@@ -154,7 +152,7 @@ As of 2023-05-18, the site has been translated into 23 languages, with 161 remai
 | Northern Sami         | Davvisámegiella        | se | Untranslated |
 | Samoan                | gagana fa'a Samoa      | sm | Untranslated |
 | Sango                 | yângâ tî sängö         | sg | Untranslated |
-| Serbian               | српски језик           | sr | **[Translated](https://asshole.fyi/sr/)** |
+| Serbian               | српски језик           | sr | Untranslated |
 | Gaelic                | Gàidhlig               | gd | Untranslated |
 | Shona                 | chiShona               | sn | Untranslated |
 | Sinhala               | සිංහල                   | si | Untranslated |
@@ -182,7 +180,7 @@ As of 2023-05-18, the site has been translated into 23 languages, with 161 remai
 | Tatar                 | татар теле             | tt | Untranslated |
 | Twi                   | Twi                    | tw | Untranslated |
 | Tahitian              | Reo Tahiti             | ty | Untranslated |
-| Uighur                | ئۇيغۇر تىلى‎            | ug | Untranslated |
+| Uighur                | ئۇيغۇر تىلى‎       | ug | Untranslated |
 | **Ukrainian**         | **Українська**         | **uk** | **[Translated](https://asshole.fyi/uk/)** |
 | Urdu                  | اردو                   | ur | Untranslated |
 | Uzbek                 | Oʻzbek                 | uz | Untranslated |
