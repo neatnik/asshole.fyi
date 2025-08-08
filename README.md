@@ -154,7 +154,7 @@ As of 2023-05-18, the site has been translated into 23 languages, with 161 remai
 | Northern Sami         | Davvisámegiella        | se | Untranslated |
 | Samoan                | gagana fa'a Samoa      | sm | Untranslated |
 | Sango                 | yângâ tî sängö         | sg | Untranslated |
-| Serbian               | српски језик           | sr | Untranslated |
+| Serbian               | српски језик           | sr | **[Translated](https://asshole.fyi/sr/)** |
 | Gaelic                | Gàidhlig               | gd | Untranslated |
 | Shona                 | chiShona               | sn | Untranslated |
 | Sinhala               | සිංහල                   | si | Untranslated |
