@@ -1,6 +1,8 @@
 # Nemoj biti šupak i nemoj da tolerišeš šupke.
 
-Možeš da primeniš ovaj kodeks ponašanja u svojoj firmi, timu, ili *open source* projektu.
+## Kodeks ponašanja
+
+Možeš da primeniš ovaj kodeks ponašanja u svojoj firmi, timu, ili open source projektu.
 
 ## Da li te je neko zamolio da posetiš ovu stranicu?
 
